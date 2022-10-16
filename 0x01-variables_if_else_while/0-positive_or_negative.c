@@ -10,7 +10,7 @@ int main(void)
 	int n;
 
 	srand(time(0));
-	n =vrand() - RAND_MAX / 2;
+	n =srand() - RAND_MAX / 2;
 	if (n > 0)
 	{
 		print("%d is  positive\n", n);
