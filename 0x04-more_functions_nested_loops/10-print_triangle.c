@@ -1,10 +1,11 @@
 #include "main.h"
 
+
 /**
- * print_traingel - entry point
+ * print_triangle - entry point
  *
- * Description: Prints triangles
- * @size: size of the triangle
+ * Description: Prints diagonals
+ *@size: size of the triangle
  * Return: void
  */
 
@@ -24,9 +25,9 @@ void print_triangle(int size)
 			{
 				_putchar(' ');
 			}
-			for (hashes = 1, hashes <= row; hashes++)
+			for (hashes = 1; hashes <= row; hashes++)
 			{
-				_putchar('#');
+				_putchar('#')
 			}
 			_putchar('\n');
 		}
