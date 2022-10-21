@@ -2,6 +2,7 @@
 
 /**
  * print_triangle - entry point
+ * createb by evans igho
  * Description: Prints diagonals
  *@size: size of the triangle
  * Return: void
