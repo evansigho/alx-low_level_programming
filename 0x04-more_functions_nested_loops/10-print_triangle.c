@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * print_triangle - entry point
  * Description: Prints diagonals
