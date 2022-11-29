@@ -1,6 +1,6 @@
 #include "lists.h"
 
-/*
+/**
  * reverse_listint - the function that reverses a listint_t
  * @head: double pointer
  *
