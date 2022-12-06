@@ -8,7 +8,7 @@
  *
  * Return: void
  */
-
+void check97(int argc)
 {
 	if (argc != 3)
 	{
